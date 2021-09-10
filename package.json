@@ -1,0 +1,19 @@
+{
+  "name": "stdgr-kata",
+  "version": "1.0.0",
+  "description": "Dear reader! This is a chance to show of your coding skills with this kata - a \"fun\" little coding exercise, which is designed to practice your abilities, but we've found that they're a great way for people to demonstrate their programming prowess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMatsievsky/stdgr-kata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMatsievsky/stdgr-kata/issues"
+  },
+  "homepage": "https://github.com/AndrewMatsievsky/stdgr-kata#readme"
+}
